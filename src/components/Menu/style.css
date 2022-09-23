@@ -1,0 +1,38 @@
+header {
+    width: 100vw;
+    height: 100px;
+    background: rgba(76, 165, 220, 0.5);
+    color: #47271d;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Logo {
+    color: #0e1a39;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    justify-content: space-around;
+    text-shadow: 0.1em 0.1em rgb(102, 170, 243);
+}
+
+.menu {
+    margin-left: 30px;
+}
+
+.menu ul li {
+    display: inline;
+    list-style-type: none;
+    margin-left: 30px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #0e1a39;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: auto;
+}
+

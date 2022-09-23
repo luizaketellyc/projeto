@@ -1,0 +1,39 @@
+body {
+    background-image: url(../img/harry_lindo.jpg);
+    background-size: 100vw;
+}
+
+h1 {
+    height: 50px;
+    color: rgb(3, 151, 168);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    height: 50px;
+    text-align: center;
+    text-shadow: #135e4e;
+
+}
+
+h2 {
+    height: 100;
+    color: srgb(56, 168, 254);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: rgb(244, 151, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: larger;
+    text-shadow: 0.1em 0.1em #333;
+    height: 30px;
+}
+
+h3 {
+    height: 100px;
+    color: #039777;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0.1em 0.1em rgb(16, 28, 54);
+    text-align: center;
+}
