@@ -14,6 +14,8 @@ export const Home = () => {
             <a href="https://tangerina.uol.com.br/musica/harry-styles-15-shows-nova-york/">https://tangerina.uol.com.br/musica/harry-styles-15-shows-nova-york/</a>
             <h2>Escute o grande sucesso, As It Was:</h2>
             <a href="https://youtu.be/H5v3kku4y6Q">https://youtu.be/H5v3kku4y6Q</a>
+            <h2>Harry's House Album:</h2>
+            <a href="https://www.youtube.com/watch?v=r5m6ScpU0yY&list=PLvGP_Hnd7zRFgI4kmX-tfvSUy3F_9TeXz">https://www.youtube.com/watch?v=r5m6ScpU0yY&list=PLvGP_Hnd7zRFgI4kmX-tfvSUy3F_9TeXz</a>
 
 
         </div>
